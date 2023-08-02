@@ -1,7 +1,7 @@
 const About = () => {
     return (
         <div>
-            Hi Guys This is end of the world not
+            Hi Guys This is end of the world
         </div>
     )
 }
